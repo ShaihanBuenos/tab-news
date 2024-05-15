@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Tainara, TE AMO!!!</h1>;
+  return <h1>Mamãe, você é linda!!!</h1>;
 }
 
 export default Home;
